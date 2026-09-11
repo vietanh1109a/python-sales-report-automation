@@ -24,7 +24,7 @@ def test_calculate_kpis_returns_expected_values() -> None:
     assert kpis["Total Transactions"] == 3
     assert kpis["Total Units Sold"] == 7.0
     assert kpis["Unique Customers"] == 2
-    assert round(kpis["Average Order Value"], 2) == 56.67
+    assert round(kpis["Average Transaction Value"], 2) == 56.67
     assert kpis["Best Selling Product"] == "Mouse"
     assert kpis["Highest Revenue Product"] == "Keyboard"
 

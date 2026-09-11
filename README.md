@@ -4,6 +4,10 @@ Python Sales Report Automation turns a raw sales CSV into a clean, easy-to-read 
 
 Raw CSV -> Python cleans and validates the data -> business metrics are calculated -> Excel management report is generated.
 
+## Preview
+
+![Sales report summary dashboard](portfolio/01_summary_dashboard.png)
+
 ## Features
 
 - Reads a sales CSV with a simple six-column format.
@@ -92,11 +96,11 @@ The generated Excel file contains:
 
 - **Summary** — key metrics, best-selling product and two business charts.
 - **Cleaned Data** — valid sales records with calculated revenue.
-- **Product Performance** — units, orders, revenue and average selling price by product.
-- **Monthly Report** — monthly orders, units sold and revenue.
+- **Product Performance** — units, transactions, revenue and average selling price by product.
+- **Monthly Report** — monthly transactions, units sold and revenue.
 - **Rejected Rows** — rows that failed validation, retained for review.
 
-The Summary sheet includes Total Revenue, Total Transactions, Units Sold, Unique Customers, Average Order Value, Best Selling Product and Highest Revenue Product. It also includes Revenue by Product and Monthly Revenue Trend charts.
+The Summary sheet includes Total Revenue, Total Transactions, Units Sold, Unique Customers, Average Transaction Value, Best Selling Product and Highest Revenue Product. It also includes Revenue by Product and Monthly Revenue Trend charts.
 
 ## Technologies used
 

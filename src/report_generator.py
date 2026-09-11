@@ -40,7 +40,7 @@ def generate_excel_report(
             ("Total Transactions", kpis["Total Transactions"], integer_format),
             ("Units Sold", kpis["Total Units Sold"], integer_format),
             ("Unique Customers", kpis["Unique Customers"], integer_format),
-            ("Average Order Value", kpis["Average Order Value"], currency_format),
+            ("Average Transaction Value", kpis["Average Transaction Value"], currency_format),
             ("Best Selling Product", kpis["Best Selling Product"], value_format),
             ("Highest Revenue Product", kpis["Highest Revenue Product"], value_format),
         ]

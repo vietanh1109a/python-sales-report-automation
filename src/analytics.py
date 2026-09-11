@@ -24,7 +24,7 @@ def calculate_kpis(cleaned_df: pd.DataFrame) -> dict[str, object]:
         "Total Transactions": total_transactions,
         "Total Units Sold": total_units_sold,
         "Unique Customers": int(cleaned_df["customer"].nunique()),
-        "Average Order Value": average_order_value,
+        "Average Transaction Value": average_order_value,
         "Best Selling Product": best_selling_product,
         "Highest Revenue Product": highest_revenue_product,
     }
