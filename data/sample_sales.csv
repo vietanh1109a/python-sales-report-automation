@@ -1,0 +1,105 @@
+Date,Product,Category,Quantity,Unit Price,Customer
+2026-01-03,Keyboard,Accessories,2,49.99,Acme Design
+2026-01-04,Mouse,Accessories,3,24.50,Bright Labs
+2026-01-05,Monitor,Displays,1,219.00,Northwind Studio
+2026-01-06,Laptop Stand,Accessories,2,39.99,Pixel Works
+2026-01-07,USB Hub,Accessories,4,29.50,Green Leaf Co
+2026-01-08,Webcam,Accessories,1,79.99,Orchid Media
+2026-01-09,Headset,Audio,2,89.00,Atlas Consulting
+2026-01-11,Keyboard,Accessories,1,59.99,Maple Retail
+2026-01-12,Mouse,Accessories,5,19.99,Sunrise Agency
+2026-01-14,Monitor,Displays,2,189.50,Blue River LLC
+2026-01-16,Laptop Stand,Accessories,3,34.99,Acme Design
+2026-01-18,USB Hub,Accessories,2,34.50,Bright Labs
+2026-01-20,Webcam,Accessories,2,69.99,Northwind Studio
+2026-01-22,Headset,Audio,1,99.00,Pixel Works
+2026-01-25,Keyboard,Accessories,4,45.00,Green Leaf Co
+2026-01-28,Mouse,Accessories,2,27.50,Orchid Media
+2026-02-02,Monitor,Displays,1,229.99,Atlas Consulting
+2026-02-03,Laptop Stand,Accessories,2,42.00,Maple Retail
+2026-02-05,USB Hub,Accessories,3,31.99,Sunrise Agency
+2026-02-06,Webcam,Accessories,1,85.00,Blue River LLC
+2026-02-08,Headset,Audio,2,94.50,Acme Design
+2026-02-10,Keyboard,Accessories,2,54.99,Bright Labs
+2026-02-12,Mouse,Accessories,4,22.75,Northwind Studio
+2026-02-14,Monitor,Displays,2,199.00,Pixel Works
+2026-02-16,Laptop Stand,Accessories,1,36.50,Green Leaf Co
+2026-02-18,USB Hub,Accessories,5,28.00,Orchid Media
+2026-02-20,Webcam,Accessories,2,74.99,Atlas Consulting
+2026-02-22,Headset,Audio,3,82.00,Maple Retail
+2026-02-24,Keyboard,Accessories,1,64.99,Sunrise Agency
+2026-02-26,Mouse,Accessories,2,25.99,Blue River LLC
+2026-03-01,Monitor,Displays,1,209.00,Acme Design
+2026-03-03,Laptop Stand,Accessories,4,38.50,Bright Labs
+2026-03-05,USB Hub,Accessories,2,32.50,Northwind Studio
+2026-03-07,Webcam,Accessories,3,72.00,Pixel Works
+2026-03-09,Headset,Audio,1,105.00,Green Leaf Co
+2026-03-11,Keyboard,Accessories,3,47.99,Orchid Media
+2026-03-13,Mouse,Accessories,2,23.50,Atlas Consulting
+2026-03-15,Monitor,Displays,2,215.00,Maple Retail
+2026-03-17,Laptop Stand,Accessories,2,41.99,Sunrise Agency
+2026-03-19,USB Hub,Accessories,3,30.00,Blue River LLC
+2026-03-21,Webcam,Accessories,1,89.99,Acme Design
+2026-03-23,Headset,Audio,2,92.00,Bright Labs
+2026-03-25, Keyboard ,Accessories,2,52.99,Northwind Studio
+2026-03-27, Mouse,Accessories,4,21.50,Pixel Works
+2026-03-29,Monitor ,Displays,1,225.00,Green Leaf Co
+2026-04-02,Keyboard,Accessories,2,55.00,Orchid Media
+2026-04-04,Mouse,Accessories,3,26.00,Atlas Consulting
+2026-04-06,Monitor,Displays,1,235.00,Maple Retail
+2026-04-08,Laptop Stand,Accessories,3,40.00,Sunrise Agency
+2026-04-10,USB Hub,Accessories,4,33.50,Blue River LLC
+2026-04-12,Webcam,Accessories,2,77.00,Acme Design
+2026-04-14,Headset,Audio,1,110.00,Bright Labs
+2026-04-16,Keyboard,Accessories,5,46.99,Northwind Studio
+2026-04-18,Mouse,Accessories,2,24.00,Pixel Works
+2026-04-20,Monitor,Displays,2,205.00,Green Leaf Co
+2026-04-22,Laptop Stand,Accessories,1,44.50,Orchid Media
+2026-04-24,USB Hub,Accessories,2,35.00,Atlas Consulting
+2026-04-26,Webcam,Accessories,3,71.50,Maple Retail
+2026-04-28,Headset,Audio,2,96.00,Sunrise Agency
+2026-05-01,Keyboard,Accessories,2,58.99,Blue River LLC
+2026-05-03,Mouse,Accessories,4,20.99,Acme Design
+2026-05-05,Monitor,Displays,1,240.00,Bright Labs
+2026-05-07,Laptop Stand,Accessories,2,37.50,Northwind Studio
+2026-05-09,USB Hub,Accessories,3,29.99,Pixel Works
+2026-05-11,Webcam,Accessories,1,82.50,Green Leaf Co
+2026-05-13,Headset,Audio,2,88.00,Orchid Media
+2026-05-15,Keyboard,Accessories,3,51.00,Atlas Consulting
+2026-05-17,Mouse,Accessories,1,28.50,Maple Retail
+2026-05-19,Monitor,Displays,2,198.00,Sunrise Agency
+2026-05-21,Laptop Stand,Accessories,3,43.00,Blue River LLC
+2026-05-23,USB Hub,Accessories,2,34.99,Acme Design
+2026-05-25,Webcam,Accessories,2,75.00,Bright Labs
+2026-05-27,Headset,Audio,1,102.00,Northwind Studio
+2026-05-29,Keyboard,Accessories,4,48.50,Pixel Works
+2026-06-02,Mouse,Accessories,3,23.99,Green Leaf Co
+2026-06-04,Monitor,Displays,1,230.00,Orchid Media
+2026-06-06,Laptop Stand,Accessories,2,39.00,Atlas Consulting
+2026-06-08,USB Hub,Accessories,4,31.50,Maple Retail
+2026-06-10,Webcam,Accessories,1,86.00,Sunrise Agency
+2026-06-12,Headset,Audio,2,91.00,Blue River LLC
+2026-06-14,Keyboard,Accessories,1,62.00,Acme Design
+2026-06-16,Mouse,Accessories,5,21.99,Bright Labs
+2026-06-18,Monitor,Displays,2,212.00,Northwind Studio
+2026-06-20,Laptop Stand,Accessories,1,45.00,Pixel Works
+2026-06-22,USB Hub,Accessories,3,36.00,Green Leaf Co
+2026-06-24,Webcam,Accessories,2,73.99,Orchid Media
+2026-06-26,Headset,Audio,3,84.00,Atlas Consulting
+2026-06-28,Keyboard,Accessories,2,53.50,Maple Retail
+2026-01-03,Keyboard,Accessories,2,49.99,Acme Design
+2026-03-21,Webcam,Accessories,1,89.99,Acme Design
+2026-05-23,USB Hub,Accessories,2,34.99,Acme Design
+2026-02-28,Keyboard,Accessories,1,49.99,
+2026-04-30,Mouse,Accessories,2,24.00,   
+2026-02-30,Monitor,Displays,1,215.00,Invalid Date Ltd
+not-a-date,USB Hub,Accessories,2,31.00,Invalid Date LLC
+2026/15/12,Webcam,Accessories,1,80.00,Invalid Date Inc
+2026-03-30,Headset,Audio,0,90.00,Zero Quantity Co
+2026-04-31,Keyboard,Accessories,-2,50.00,Negative Quantity Co
+2026-05-30,Mouse,Accessories,many,22.00,Text Quantity Co
+2026-06-30,Monitor,Displays,1,unknown,Invalid Price Co
+2026-06-29,Laptop Stand,Accessories,2,-15.00,Negative Price Co
+2026-06-27,USB Hub,Accessories,1,not-priced,Text Price Co
+2026-06-25, ,Accessories,2,29.99,Missing Product Co
+,,,,,
